@@ -1,0 +1,8 @@
+#===============================================================
+                    READ ME FILE
+#===============================================================
+
+- THE DIRECTORY CONTAINS THE TRAINED MODEL FOR REPROCIBILITY WHICH IS zindi.h5
+- TO APPLY THE MODEL, SIMPLY SCALE THE DATA AND PERFORM THE PREDICTIONS
+- WE HAVE INCLUDED THE TRAINED MODEL DUE TO THE RONDOMNESS INVOLVED IN THE DATA AUGMENTATION PROCESS
+
